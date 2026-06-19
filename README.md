@@ -26,6 +26,7 @@ A collection of Claude Code skills for marketing content creation, powered by [P
 | **pricing-plan** | Design, evaluate, and optimize pricing strategies and tiers. |
 | **conversion-audit** | Audit landing pages and optimize for conversions. |
 | **ab-test** | Plan and design A/B tests and experiments. |
+| **[NotFair](https://github.com/nowork-studio/NotFair)** | Open-source Claude Code skills for SEO and paid ads — covers [SEO](https://github.com/nowork-studio/NotFair/tree/main/seo), [Google Ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads), and [Meta Ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads) via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. |
 
 ## Installation
 
