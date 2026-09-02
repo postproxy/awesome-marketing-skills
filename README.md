@@ -18,6 +18,7 @@ A collection of Claude Code skills for marketing content creation, powered by [P
 | **campaign-brief** | Build structured campaign briefs and generate master prompts for AI image generation and copywriting. |
 | **marketing-copy** | Write, rewrite, or improve marketing copy for landing pages, headlines, CTAs, and more. |
 | **social-creator** | Create social media posts, plan content calendars, and optimize social strategy. |
+| **bulkpublish-publisher** | Prepare, review, schedule, and publish approved social content through BulkPublish. |
 | **email-flows** | Design email sequences, drip campaigns, and automated nurture flows. |
 | **ad-campaigns** | Create and optimize paid advertising campaigns across Google, Meta, LinkedIn, and more. |
 | **seo-at-scale** | Build programmatic SEO pages at scale using templates and data. |
@@ -45,6 +46,7 @@ awesome-marketing-skills/
   campaign-brief/
   marketing-copy/
   social-creator/
+  bulkpublish-publisher/
   email-flows/
   ad-campaigns/
   seo-at-scale/
